@@ -295,6 +295,17 @@ padding: 6em 0 6em 0;
 /* Poptrox                                                                       */
 /*********************************************************************************/
 
+c{
+    position: absolute;
+}
+
+.contacts c{
+    top:50%;
+    right: 70%;
+}
+
+
+
 	.poptrox-popup
 	{
 	}
