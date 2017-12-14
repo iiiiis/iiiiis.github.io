@@ -295,14 +295,14 @@ padding: 6em 0 6em 0;
 /* Poptrox                                                                       */
 /*********************************************************************************/
 
-c{
+/*c{
     position: absolute;
 }
 
-.contacts c{
+#contacts c{
     top:50%;
     right: 70%;
-}
+}*/
 
 
 
